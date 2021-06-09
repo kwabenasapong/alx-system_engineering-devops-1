@@ -9,3 +9,4 @@
 `8-firstdelete- delete file from tmp`
 `9-dirstdirdeletion- delete holberton directory`
 `10-back- go to previous directory`
+`11-lists- list all files`
