@@ -5,3 +5,4 @@
 `4-listmorefiles- list all files including hidden files in long format`
 `5-listfilesdigitonly- list all files in long format and user and group IDs displayed numerically`
 `6-firstdirectory- make new directory named Holberton in /tmp`
+`7-movethatfile- move file from one directory to another`
