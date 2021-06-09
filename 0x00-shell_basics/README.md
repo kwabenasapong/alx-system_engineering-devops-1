@@ -11,3 +11,4 @@
 `10-back- go to previous directory`
 `11-lists- list all files`
 `12-file_type- display file type`
+`13-symbolic_link- create as symbolic link`
