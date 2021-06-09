@@ -8,3 +8,4 @@
 `7-movethatfile- move file from one directory to another`
 `8-firstdelete- delete file from tmp`
 `9-dirstdirdeletion- delete holberton directory`
+`10-back- go to previous directory`
