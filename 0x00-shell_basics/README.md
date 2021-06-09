@@ -7,3 +7,4 @@
 `6-firstdirectory- make new directory named Holberton in /tmp`
 `7-movethatfile- move file from one directory to another`
 `8-firstdelete- delete file from tmp`
+`9-dirstdirdeletion- delete holberton directory`
