@@ -3,3 +3,4 @@
 `2-bring_me_home- takes user to home directory`
 `3-listfiles- list files in long format`
 `4-listmorefiles- list all files including hidden files in long format`
+`5-listfilesdigitonly- list all files in long format and user and group IDs displayed numerically`
