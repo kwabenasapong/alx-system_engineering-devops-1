@@ -13,7 +13,7 @@ def top_ten(subreddit):
         Top ten titles
     """
     base_url = 'https://www.reddit.com/r/{}/hot.json'.format(subreddit)
-    headers = {'User-Agent': 'Carlos Barros'}
+    headers = {'User-Agent': 'lowercase-life'}
     _size = {"limit": 10}
     r = requests.get(base_url, params=_size, headers=headers).json()
     child = r.get('data', {}).get('children', None)
